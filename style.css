@@ -1,0 +1,65 @@
+ul {
+	list-style-type: none;
+}
+
+.nav-link {
+	color: #fff !important;
+	padding-right: 20px !important;
+}
+
+
+.navbar {
+	min-height: 10vh !important;
+}
+
+
+section {
+	min-height: 100vh;
+}
+
+section .inner {
+	padding-top: 10vh !important;
+}
+
+#home h1,
+#about h1,
+#education h1,
+#hobbies h1,
+#skills h1,
+#contact h1{
+	font-size: 42px;
+}
+
+#home {
+	background-color: #77d8d8;
+}
+
+#home h1{
+	font-size: 3.5rem;
+}
+
+#home img{
+	width: 250px;
+	height: auto;
+}
+
+#education img,
+#hobbies img{
+	width: 100px;
+	height: auto;
+}
+
+#about
+#hobbies
+#contact{
+	background-color: rgb(76, 187, 185);
+}
+
+#about p{
+	font-size: 28px;
+	line-height: 50px;
+}
+
+#profile{
+
+}
